@@ -24,7 +24,7 @@
    - **Reinstala Node.js** desde nodejs.org
 
 #### **Opción C (para todos):**
-```bash
+
 # En terminal prueba:
 where node  # Windows
 which node  # Mac/Linux
