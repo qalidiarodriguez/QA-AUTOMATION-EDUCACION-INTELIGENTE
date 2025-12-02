@@ -139,18 +139,18 @@ Usa GitHub Desktop en lugar de la web
 O trabaja offline y sube después
 
 
-##🧪 **MÉTODO DE DIAGNÓSTICO PASO A PASO**
+## 🧪 **MÉTODO DE DIAGNÓSTICO PASO A PASO**
 
 Cuando NO SABES qué pasa, haz esto:
 
-# PASO 1: COPIA EL ERROR EXACTO
+### PASO 1: COPIA EL ERROR EXACTO
 
 Selecciona TODO el texto rojo en la terminal
 
 Copia (Ctrl+C)
 Pega en un documento
 
-# PASO 2: BUSCA PATRONES
+### PASO 2: BUSCA PATRONES
 ¿El error contiene?
 
 EACCES → Problema de permisos
@@ -161,12 +161,12 @@ ETIMEDOUT → Problema de red
 
 404 → No encontrado
 
-#PASO 3: GOOGLEA INTELIGENTEMENTE
+### PASO 3: GOOGLEA INTELIGENTEMENTE
 
 Busca: "cypress EPERM operation not permitted mkdir Windows 11"
 NO busques: "cypress no funciona"
 
-# PASO 4: PRUEBA SOLUCIONES EN ORDEN
+### PASO 4: PRUEBA SOLUCIONES EN ORDEN
 
 Reinicia (computadora/VS Code)
 
@@ -178,7 +178,7 @@ Busca ayuda (con toda la info del error)
 
 ## 📞 **¿CUÁNDO PEDIR AYUDA HUMANA?**
 
-# ✅ Pide ayuda DESPUÉS de:
+### ✅ Pide ayuda DESPUÉS de:
 Intentaste al menos 2 soluciones de esta guía
 
 Copiaste el error COMPLETO
@@ -187,7 +187,7 @@ Googleaste el error específico
 
 La IA no pudo ayudarte
 
-# ⚠️ NO pidas ayuda:
+### ⚠️ NO pidas ayuda:
 
 Sin haber leído esta guía primero
 
@@ -205,7 +205,7 @@ Sin decir qué soluciones intentaste
 
 "Cada problema resuelto es una habilidad ganada."
 
-## 🔗 **RECURSOS EXTRA**
+### 🔗 **RECURSOS EXTRA**
 
 Foros oficiales: https://stackoverflow.com/questions/tagged/cypress
 
