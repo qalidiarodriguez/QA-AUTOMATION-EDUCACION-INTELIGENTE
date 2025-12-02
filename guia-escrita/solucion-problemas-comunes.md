@@ -31,7 +31,7 @@ which node  # Mac/Linux
 ❌ Problema: Error de permisos EPERM o EACCESS
 Ejemplo: Error: EPERM: operation not permitted
 
-✅ Solución RÁPIDA:
+**✅ Solución RÁPIDA:**
 
 Cierra VS Code COMPLETAMENTE
 
@@ -39,7 +39,7 @@ Cierra VS Code COMPLETAMENTE
 
 Intenta de nuevo
 
-✅ Solución COMPLETA:
+**✅ Solución COMPLETA:**
 # Limpia cache de npm
 npm cache clean --force
 
@@ -50,16 +50,24 @@ rm -rf node_modules package-lock.json
 npm install
 
 ## 🖥️ **CATEGORÍA 2: PROBLEMAS CON VS CODE**
-❌ Problema: La terminal no se abre o no funciona
-✅ Soluciones:
+
+**❌ Problema:**
+
+La terminal no se abre o no funciona
+
+**✅ Soluciones:**
 
 Menú: Terminal → New Terminal (o Ctrl+Ñ)
 
 Si no aparece: Reinicia VS Code
 
 Si persiste: Verifica que no haya actualizaciones pendientes
-❌ Problema: Las extensiones no se instalan
-✅ Verifica:
+
+**❌ Problema:**
+
+Las extensiones no se instalan
+
+**✅ Verifica:**
 
 Tienes conexión a internet
 
@@ -68,8 +76,12 @@ Estás en la pestaña correcta (Extensions, no Marketplace)
 Reinicia VS Code después de instalar
 
 ## 🐙 **CATEGORÍA 3: PROBLEMAS CON GIT/GITHUB**
-❌ Problema: Git pide usuario y contraseña CADA VEZ
-✅ Solución (Windows):
+
+**❌ Problema:**
+
+Git pide usuario y contraseña CADA VEZ
+
+**✅ Solución (Windows):**
 
 Abre GitHub Desktop
 
@@ -79,41 +91,61 @@ Verifica que tu usuario y email estén correctos
 
 O usa SSH (más avanzado pero más seguro)
 
-❌ Problema: git push falla con error de autenticación
-✅ Solución RÁPIDA:
+**❌ Problema:**
+
+git push falla con error de autenticación
+
+**✅ Solución RÁPIDA:**
+
 # Reconfigura credenciales
+
 git config --global credential.helper manager-core
 
 # Luego intenta push de nuevo
+
 git push
 
 ## 🎯 **CATEGORÍA 4: PROBLEMAS CON CYPRESS**
-❌ Problema: npx cypress open no hace nada/se cuelga
-✅ Pasos para diagnosticar:
-# 1. Verifica instalación
+
+**❌ Problema:**
+
+npx cypress open no hace nada/se cuelga
+
+**✅ Pasos para diagnosticar**
+
+### 1. Verifica instalación
 npx cypress verify
 
-# 2. Si hay error, reinstala
+### 2. Si hay error, reinstala
 npm uninstall cypress
 npm install cypress@latest --save-dev
 
-# 3. Si sigue, prueba versión específica
+### 3. Si sigue, prueba versión específica
 npm install cypress@12.0.0 --save-dev
 
-❌ Problema: Cypress no encuentra los tests
+**❌ Problema:**
+
+Cypress no encuentra los tests
 Síntomas: La ventana se abre pero dice "No specs found"
 
-✅ Solución:
+**✅ Solución:**
 
 1.Asegúrate que tus archivos de test están en:
+
 cypress/e2e/  # Para Cypress 10+
 cypress/integration/  # Para versiones antiguas
+
 2.Los archivos deben terminar en:
+
 .cy.js
 .spec.js
 .test.js
-❌ Problema: Tests pasan local pero fallan en CI/CD
-✅ Causas comunes:
+
+**❌ Problema:**
+
+Tests pasan local pero fallan en CI/CD
+
+**✅ Causas comunes:**
 
 Tiempos de espera: Añade { timeout: 10000 } a tus gets
 
@@ -122,8 +154,12 @@ Datos diferentes: Usa fixtures para datos consistentes
 Variables de entorno: Configura .env files
 
 ## 🌐 **CATEGORÍA 5: PROBLEMAS DE CONEXIÓN/RED**
-❌ Problema: No puedo instalar nada (timeout)
-✅ Soluciones:
+
+**❌ Problema:**
+
+No puedo instalar nada (timeout)
+
+**✅ Soluciones:**
 
 # Cambia registry de npm
 npm config set registry https://registry.npmjs.org/
@@ -131,8 +167,12 @@ npm config set registry https://registry.npmjs.org/
 # O prueba con yarn
 npm install -g yarn
 yarn install
-❌ Problema: GitHub no carga/está lento
-✅ Solución temporal:
+
+**❌ Problema:**
+
+GitHub no carga/está lento
+
+**✅ Solución temporal:**
 
 Usa GitHub Desktop en lugar de la web
 
@@ -151,6 +191,7 @@ Copia (Ctrl+C)
 Pega en un documento
 
 ### PASO 2: BUSCA PATRONES
+
 ¿El error contiene?
 
 EACCES → Problema de permisos
