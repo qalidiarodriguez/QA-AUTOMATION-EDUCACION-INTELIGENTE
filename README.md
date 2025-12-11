@@ -44,7 +44,7 @@ La automatización no "decide"—**sigue reglas que nosotros hemos definido con 
 
 > **"Somos los cartógrafos que mapeamos los patrones del mundo real  
 > hacia sistemas digitales que reflejen nuestra comprensión,  
-> no nuestro reemplazo."** — Qalidia Rodríguez
+> no nuestro reemplazo."**
 
 ---
 
