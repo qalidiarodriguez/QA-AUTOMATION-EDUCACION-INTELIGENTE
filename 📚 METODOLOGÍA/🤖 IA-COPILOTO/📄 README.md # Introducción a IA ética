@@ -1,1 +1,133 @@
+# 🤖 IA como Tu Copiloto de Aprendizaje
+## Amplifica tu mente, no la reemplaces
 
+> **"La IA es el lápiz del siglo XXI.  
+> Aprende a sostenerlo bien antes de intentar dibujar."**
+
+---
+
+## 🎯 **¿POR QUÉ ESTA CARPETA EXISTE?**
+
+### ❌ **El error común:**
+Usar IA para:
+- "Haz mi tarea"
+- "Dame el código completo"
+- "Resuélveme este problema sin pensar"
+
+### ✅ **Nuestro enfoque:**
+Usar IA para:
+- "Explícame esto como si tuviera 5 conceptos clave"
+- "¿Qué preguntas debería hacerme sobre este código?"
+- "Genera 3 ejemplos diferentes del mismo concepto"
+
+---
+
+## 🧭 **PRINCIPIOS FUNDAMENTALES**
+
+### 1. **IA como ESPEJO, no como ORÁCULO**
+No preguntes "¿cuál es la respuesta?"  
+Pregunta "¿cómo pensarías tú esto?"
+
+### 2. **TU cerebro es el JEFE, la IA es la ASISTENTE**
+Si no entiendes lo que la IA te dio, **no lo uses**.  
+Pídele que lo explique de otra manera.
+
+### 3. **VERIFICA, no COPIES**
+La IA alucina. La IA inventa.  
+Siempre prueba, siempre verifica, siempre pregunta "¿esto tiene sentido?"
+
+### 4. **DOCUMENTA la conversación**
+Guarda tus prompts y respuestas.  
+En 6 meses querrás saber cómo pensabas.
+
+---
+
+## 🚀 **COMENZA AQUÍ (En orden):**
+
+1. **[Filosofía IA + Educación](filosofia-ia-educacion.md)**  
+   Tu postura ética antes de usar herramientas
+
+2. **[Cómo usar IA sin dependencia](como-usar-ia-sin-dependencia.md)**  
+   Ejercicios para mantener tu pensamiento crítico
+
+3. **[Prompts Específicos para QA](PROMPTS-ESPECIFICOS/prompts-para-qa.md)**  
+   Los 20 prompts que cambiarán tu forma de aprender
+
+---
+
+## 🎭 **EJEMPLO PRÁCTICO: Cómo aprendo con IA**
+
+### **Escenario:** Necesito aprender Postman pero me abruman los conceptos.
+
+#### ❌ **Approach malo:**
+> "Enséñame Postman completo"
+
+#### ✅ **Approach inteligente (mi método):**
+
+**Prompt 1 (Contexto):**  
+> "Soy QA beginner. Necesito entender Postman en 5 conceptos fundamentales.  
+> No me des pasos técnicos todavía. Dame los CONCEPTOS clave."
+
+**Prompt 2 (Después de entender conceptos):**  
+> "Ahora, para el concepto 'Collections',  
+> dame 3 analogías de la vida real y luego la explicación técnica."
+
+**Prompt 3 (Aplicación):**  
+> "Basado en lo anterior,  
+> ¿qué 3 preguntas debería hacerme para ver si entendí 'Variables' en Postman?"
+
+**Prompt 4 (Verificación):**  
+> "Inventa un mini-quiz de 3 preguntas sobre Environments.  
+> Dame las respuestas después de que yo intente."
+
+---
+
+## ⚠️ **BANDERAS ROJAS (Cuando NO usar IA)**
+
+1. **Cuando estás en entrevista técnica** → Tu cerebro, no la IA
+2. **Cuando el concepto es totalmente nuevo** → Primero humanos, luego IA
+3. **Cuando estás frustrada** → Respira, camina, luego pregunta a IA
+4. **Cuando es éticamente cuestionable** → Tu conciencia primero
+
+---
+
+## 🌈 **EJERCICIO DE AUTODIAGNÓSTICO**
+
+### **Responde antes de pedirle algo a la IA:**
+
+1. **¿He intentado entenderlo por mi cuenta?** (15 min mínimo)
+2. **¿Puedo explicar el problema en mis propias palabras?**
+3. **¿Qué específicamente quiero que la IA me ayude?** (no "todo")
+4. **¿Cómo verificaré que la respuesta es correcta?**
+
+---
+
+## 📚 **RECURSOS COMPLEMENTARIOS**
+
+- **[Riesgos y Ética](RIESGOS-Y-ETICA/)** → Límites claros
+- **[Herramientas Prácticas](HERRAMIENTAS-PRACTICAS/)** → Guías específicas
+- **[Proyectos con IA](PROYECTOS-CON-IA/)** → Aplicación real
+
+---
+
+## 💭 **MI PROMESA SOBRE IA**
+
+**Te enseñaré a:**
+- Conversar con máquinas como colegas
+- Mantener tu pensamiento crítico intacto
+- Usar IA para acelerar, no para evitar
+- Detectar cuándo la IA está inventando
+- Crear tu propio "estilo de prompts"
+
+**NUNCA te enseñaré a:**
+- Engañar a profesores/empleadores
+- Depender de IA para pensar
+- Copiar código sin entenderlo
+- Perder tu voz única en el código
+
+---
+
+> "La inteligencia artificial no te quitará tu trabajo.  
+> Pero alguien que sabe usar inteligencia artificial sí podría."
+
+**¿Listo para ser ese alguien?** Comienza por [filosofía](filosofia-ia-educacion.md).
