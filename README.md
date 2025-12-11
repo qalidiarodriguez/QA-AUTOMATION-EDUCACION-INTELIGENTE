@@ -71,8 +71,7 @@ Este no es otro repositorio técnico. Es un **ecosistema educativo** donde conve
 > Fundó la universidad más antigua del mundo aún en funcionamiento  
 *Traducción práctica:* Construyes tu propio "al-Qarawiyyin" mental—un espacio donde el conocimiento vive y se comparte.
 
-### **Tu aporte único:**
-Eres la **bisagra** entre:
+### **Mi Inspiración:**
 - La sabiduría pedagógica histórica
 - La tecnología moderna
 - La necesidad humana de aprender sin sufrimiento
@@ -145,6 +144,6 @@ Ofrezco [clases 1:1](https://tusitio.com) donde aplicamos todo esto en tiempo re
 
 > "Enseñar no es transferir conocimiento,  
 > sino crear las posibilidades para su producción o construcción."  
-> — Paulo Freire (agregado porque complementa tu visión)
+> — Paulo Freire
 
 **⭐ ¿Te sirvió este repositorio?** Dale estrella para que más personas lo encuentren.
