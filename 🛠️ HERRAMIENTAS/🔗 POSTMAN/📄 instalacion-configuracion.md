@@ -170,6 +170,8 @@ pm.test("Status code es 200", function () {
 No "aprendiste a automatizar".
 Aprendiste que la automatización son reglas claras, no magia.
 
+---
+
 ### 📚 PASO 6: ORGANIZACIÓN (portafolio desde el día 1)
 Guarda tu trabajo como profesional:
 Click en Save
@@ -184,6 +186,8 @@ Por qué importa esto HOY:
 Mañana, cuando tengas 50 tests, sabrás dónde están.
 La próxima semana, esto será parte de tu portafolio.
 En una entrevista, podrás mostrar organización desde el inicio.
+
+---
 
 ### 🧠 PASO 7: REFLEXIÓN COGNITIVA (lo más importante)
 Responde mentalmente:
@@ -235,6 +239,8 @@ Te fuerza a:
 Buscar en Postman (Collections)
 Aprender la interfaz
 Crear un sistema de organización MEJOR
+
+---
 
 ### **🌟 TU LOGRO HOY (reconócelo)**
 No instalaste "solo Postman".
